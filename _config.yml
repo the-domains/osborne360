@@ -1,0 +1,28 @@
+name: osborne360
+favicon: null
+layout_spectrum: 0.6699633074458688
+typography_spectrum: 0.04134893440641463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5206231896299869
+  lightness: 0.2025486878119409
+  saturation: 0.25298959552310407
+  rhythmicContrast: 0.6771287776064128
+purpose: []
